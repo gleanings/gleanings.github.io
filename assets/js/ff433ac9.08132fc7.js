@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgleanings=self.webpackChunkgleanings||[]).push([["53753"],{6809(s){s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"sidebar_mySQL"}')}}]);
